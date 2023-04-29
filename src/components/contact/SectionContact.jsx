@@ -2,14 +2,14 @@ const SectionContact = () => {
     return (
         <>
             <div className="container  grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2  ">
-                <div className="mx-10 mt-12 ">
-                    <h3 className="  flex items-center text-2xl font-bold uppercase">
+                <div className="mx-10 mt-10">
+                    {/* <h3 className="  flex items-center text-2xl font-bold uppercase">
                         BJA Coatings
-                    </h3>
-                    <div className="mx-10 mt-4 w-1/3 border-b-2 border-green-700/80 lg:mx-10 lg:w-1/6"></div>
-                    <h3 className="  mt-8 flex items-center text-xl font-bold ">
+                    </h3> */}
+                    <h3 className=" flex items-center text-2xl font-bold ">
                         Head Office
                     </h3>
+                    <div className="mx-5 mt-3 w-1/3 border-b-2 border-green-700/80 lg:mx-8 lg:w-1/6"></div>
                     <p className="mt-4">
                         Jl. Sugeng Desa Sei Rotan, Kec. Percut Sei Tuan, Kab.
                         Deli Serdang,Sumatera Utara, 20371.

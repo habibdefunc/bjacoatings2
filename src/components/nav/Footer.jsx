@@ -145,7 +145,7 @@ const Footer = () => {
                         </svg>
                     </a>
                     <a
-                        href="https://api.whatsapp.com/send?phone=6285156913789"
+                        href="https://api.whatsapp.com/send?phone=6281263449454"
                         class="text-gray-500 hover:text-gray-900 "
                         target="__blank"
                     >
