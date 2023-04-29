@@ -15,7 +15,7 @@ const card1 = [
         name: "PT. Cemerlang Samudera Kontrindo",
         explain: "Menggunakan epoxy lantai (SL), dengan ketebalan 500 micron",
         image1: "/assets/images/PT_CEMERLANG_SAMUDRA_KONTRINDO/File_004.png",
-        image2: "/assets/images/PT_CEMERLANG_SAMUDRA_KONTRINDO/File_002.png",
+        image2: "/assets/images/PT_CEMERLANG_SAMUDRA_KONTRINDO/File_002.jpg",
         image3: "/assets/images/PT_CEMERLANG_SAMUDRA_KONTRINDO/File_005.png",
         image4: "/assets/images//PT_CEMERLANG_SAMUDRA_KONTRINDO/File_006.png",
         image5: "/assets/images//PT_CEMERLANG_SAMUDRA_KONTRINDO/File_008.png",
@@ -132,35 +132,35 @@ const Card = () => {
                             <SwiperSlide>
                                 <img
                                     src={card.image2}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image3}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image4}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image5}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image6}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
@@ -317,35 +317,35 @@ const Card = () => {
                             <SwiperSlide>
                                 <img
                                     src={card.image2}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image3}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image4}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image5}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image6}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
@@ -441,35 +441,35 @@ const Card = () => {
                             <SwiperSlide>
                                 <img
                                     src={card.image2}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image3}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image4}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image5}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
                             <SwiperSlide>
                                 <img
                                     src={card.image6}
-                                    className="slide-img object-cover"
+                                    className="slide-img transform object-cover transition-all duration-1000 hover:scale-110"
                                     alt=""
                                 />
                             </SwiperSlide>
