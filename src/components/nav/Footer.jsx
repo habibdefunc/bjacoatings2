@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="mx-auto max-w-7xl lg:flex lg:justify-between">
                 <a href="" class="flex">
                     <img src="/bja.png" class="mr-3 h-8" alt="FlowBite Logo" />
-                    <span class="text-2xl font-semibold ">BJA COATING</span>
+                    <span class="text-2xl font-semibold ">BJA COATINGS</span>
                 </a>
                 <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0">
                     <div className="">
