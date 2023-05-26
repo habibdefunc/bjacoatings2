@@ -114,6 +114,31 @@ const SectionAbout = () => {
             perusahaan: "Yayasan Pesantren Raudhatul Hasanah",
             kota: "Deli Serdang",
         },
+        {
+            id: "10",
+            perusahaan: "PT. Madinra Inti Sawit ",
+            kota: "Sulawesi Tenggara",
+        },
+        {
+            id: "11",
+            perusahaan: "PT. Merbau Jaya Indah Raya",
+            kota: "Labuhan Batu Utara",
+        },
+        {
+            id: "12",
+            perusahaan: "PT. Sujin Ray Indonesia",
+            kota: "Medan",
+        },
+        {
+            id: "13",
+            perusahaan: "PT. Medan Tropical Canning & Frozen Industries",
+            kota: "Medan",
+        },
+        {
+            id: "14",
+            perusahaan: "PLTU Pangkalan Brandan",
+            kota: "Pangkalan Brandan",
+        },
     ];
 
     return (

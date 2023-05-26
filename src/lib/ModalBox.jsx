@@ -73,6 +73,11 @@ const detailLayanan = [
         name: "INDUSTRIAL PAINTING",
         imgSrc: ArrowRightCircleIcon,
     },
+    {
+        id: 15,
+        name: "JASA GRINDING LANTAI",
+        imgSrc: ArrowRightCircleIcon,
+    },
 ];
 
 export const ModalBox = () => {

@@ -1,5 +1,20 @@
 const ourMitra = [
     {
+        id: "6",
+        name: "PT. Arsy Paint Indonesia",
+        Mitraname: "Arsy Floor",
+    },
+    {
+        id: "13",
+        name: "PT. Adiguna Mortar Abadi",
+        Mitraname: "Viacore & Versa Paint",
+    },
+    {
+        id: "14",
+        name: "PT. Rajawali Tunggal Abadi",
+        Mitraname: "Hikari Paint",
+    },
+    {
         id: "1",
         name: "PT. Bina Adidaya",
         Mitraname: "Penta Prima Paint",
@@ -23,11 +38,6 @@ const ourMitra = [
         id: "5",
         name: "PT. Asaba Golden Prima",
         Mitraname: "Top Floor",
-    },
-    {
-        id: "6",
-        name: "PT. Arsy Paint Indonesia",
-        Mitraname: "Arsy Floor",
     },
     {
         id: "7",
